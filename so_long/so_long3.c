@@ -6,7 +6,7 @@
 /*   By: mohamibr <mohamibr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/28 10:58:55 by mohamibr          #+#    #+#             */
-/*   Updated: 2024/08/28 12:41:02 by mohamibr         ###   ########.fr       */
+/*   Updated: 2024/08/28 17:03:30 by mohamibr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -68,7 +68,7 @@ int	key_handler(int keycode, t_game *game)
 		move_player(game, data->player_x, data->player_y - 1);
 	else if (keycode == S_KEY || keycode == DOWN_KEY)
 		move_player(game, data->player_x, data->player_y + 1);
-	else if (keycode == EXIT)
+	else if (keycode == EXIT || keycode == Q_KEY)
 		close_game(game, 1);
 	return (0);
 }

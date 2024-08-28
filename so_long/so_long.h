@@ -6,7 +6,7 @@
 /*   By: mohamibr <mohamibr@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/28 10:59:15 by mohamibr          #+#    #+#             */
-/*   Updated: 2024/08/28 11:21:36 by mohamibr         ###   ########.fr       */
+/*   Updated: 2024/08/28 18:43:55 by mohamibr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -32,6 +32,7 @@
 # define LEFT_KEY 65361
 # define RIGHT_KEY 65363
 # define EXIT 65307
+# define Q_KEY 113
 
 // Player dimensions
 # define PLAYER_WIDTH 64
