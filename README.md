@@ -34,7 +34,7 @@ make
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Mohamadaliibrahim/so_long
+git clone git@github.com:Mohamadaliibrahim/so_long.git
 cd so_long
 ```
 
