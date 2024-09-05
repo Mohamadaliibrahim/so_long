@@ -92,3 +92,7 @@ This project adheres to the 42 School's Norminette standards. All functions have
 
 - [MinilibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
 - [42 School's so_long Subject](https://github.com/42School/42cursus)
+
+### Author
+
+This project was developed by **mohamibr** as part of the 42 school curriculum.
