@@ -88,10 +88,6 @@ Replace `path_to_map/map_file.ber` with the actual path to your map file.
 
 This project adheres to the 42 School's Norminette standards. All functions have been split into smaller functions, and the code has been refactored to meet the required line limits and argument counts.
 
-## Resources
-
-- [MinilibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
-- [42 School's so_long Subject](https://github.com/42School/42cursus)
 
 ### Author
 
