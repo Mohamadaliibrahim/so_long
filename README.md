@@ -62,7 +62,12 @@ Replace `path_to_map/map_file.ber` with the actual path to your map file.
 - **A**: Move left
 - **S**: Move down
 - **D**: Move right
+- **up arow**: Move up
+- **left arow**: Move left
+- **down arow**: Move down
+- **right arow**: Move right
 - **ESC**: Exit the game
+- **q** : Exit the game
 
 ## Game Objectives
 
@@ -75,6 +80,12 @@ Replace `path_to_map/map_file.ber` with the actual path to your map file.
 - The map must be rectangular and surrounded by walls (`1`).
 - The map must contain at least one player start position (`P`), one exit (`E`), and one collectable (`C`).
 - Valid characters in the map are: `1`, `0`, `C`, `P`, and `E`.
+
+## Edge cases
+
+- If the player is stucked by wall the map will not open!
+- If the player cant reach all collectables the game will not open!
+- If the player cant reach the exit door the game will not open!
 
 ## Project Structure
 
