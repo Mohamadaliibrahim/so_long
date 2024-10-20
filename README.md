@@ -23,6 +23,11 @@ No need to install the `MinilibX` library manually; it is included and handled i
 
 ```bash
 git clone git@github.com:Mohamadaliibrahim/so_long.git
+```
+
+### Enter so_long file:
+
+```bash
 cd so_long
 ```
 
