@@ -28,7 +28,7 @@ git clone git@github.com:Mohamadaliibrahim/so_long.git
 ### Enter so_long file
 
 ```bash
-cd so_long
+cd so_long/so_long
 ```
 
 ### Compile the Game
